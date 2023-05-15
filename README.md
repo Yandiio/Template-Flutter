@@ -1,7 +1,7 @@
 # Template Flutter
 
--Auth
--CRUD
+--Auth
+--CRUD
 -
 
 ## JOIN Collaboration
